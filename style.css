@@ -1,0 +1,17 @@
+
+ul li {
+    list-style: none;
+}
+
+.card {
+    transition: .5s;
+}
+.card:hover {
+    background: #007eed;
+    color: white;
+    transform: scaleY(1.3);
+}
+
+.start-75 {
+    left: 75%!important;
+}
